@@ -1,6 +1,9 @@
 
 
 🩺 Diabetes Health Indicators — ML Classification Project
+
+
+
 📌 Objective
 The primary goal of this project is to predict the likelihood of a person having diabetes based on health-related indicators. This is a binary classification problem, where the model outputs either 0 (no diabetes) or 1 (diabetes).
 
